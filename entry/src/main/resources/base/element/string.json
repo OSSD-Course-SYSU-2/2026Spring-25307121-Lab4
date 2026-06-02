@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Delta修复游戏应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Delta修复主界面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Delta修复"
+    }
+  ]
+}
