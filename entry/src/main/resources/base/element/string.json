@@ -2,6 +2,7 @@
   "string": [
     {
       "name": "module_desc",
+<<<<<<< HEAD
       "value": "module description"
     },
     {
@@ -11,6 +12,17 @@
     {
       "name": "EntryAbility_label",
       "value": "label"
+=======
+      "value": "Delta修复游戏应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Delta修复主界面"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Delta修复"
+>>>>>>> 09ec420f40fd8103d55821192a297211cc71f8cc
     }
   ]
 }
