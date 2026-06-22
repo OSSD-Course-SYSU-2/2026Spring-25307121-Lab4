@@ -4,3 +4,6 @@
 一共有三个精美的关卡，全部完成后将解锁隐藏彩蛋
 
 <img width="1108" height="1346" alt="屏幕截图 2026-06-02 172902" src="https://github.com/user-attachments/assets/599beadc-7bd0-4c43-8730-974f7344f225" />
+
+现解锁三种不同形态，隐藏开发者模式
+<img width="230" height="453" alt="image" src="https://github.com/user-attachments/assets/c3bab99a-9f04-4674-8595-ce69d92b2ff3" />
