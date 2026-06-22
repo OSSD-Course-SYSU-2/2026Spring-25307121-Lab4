@@ -2,11 +2,7 @@
   "string": [
     {
       "name": "app_name",
-<<<<<<< HEAD
-      "value": "MyApplication"
-=======
       "value": "Delta修复"
->>>>>>> 09ec420f40fd8103d55821192a297211cc71f8cc
     }
   ]
 }

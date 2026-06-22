@@ -8,6 +8,16 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
+    <!-- 背景音乐 -->
+    <audio id="bgm" loop preload="auto">
+        <source src="bgm_aoi.mp3" type="audio/mpeg">
+    </audio>
+    
+    <!-- 音乐控制按钮 -->
+    <button id="music-btn" class="music-btn" onclick="toggleMusic()">
+        <span id="music-icon">●</span>
+    </button>
+    
     <div class="container">
         <!-- 标题区域 -->
         <header class="header">
@@ -39,6 +49,7 @@
                     <button class="btn btn-reset" onclick="resetGame()">重置</button>
                     <button class="btn btn-check" onclick="checkSolution()">检查</button>
                     <button class="btn btn-next" onclick="nextLevel()">下一关</button>
+                    <button class="btn btn-style" onclick="switchStyle()">切换风格</button>
                 </div>
 
                 <div class="legend">
@@ -81,10 +92,10 @@
                     
                     <div class="link-box">
                         <p>点击下方链接继续</p>
-                        <a href="https://endfield.hypergryph.com/wllp/AlA8352RcilJqN2i" 
+                        <a href="https://www.bilibili.com/video/BV1GJ411x7h7/?spm_id_from=333.337.search-card.all.click&vd_source=e5580fb76b526ee1925ecea3e8af8070" 
                            target="_blank" 
                            class="link">
-                            https://endfield.hypergryph.com/wllp/AlA8352RcilJqN2i
+                            https://www.bilibili.com/video/BV1GJ411x7h7/
                         </a>
                     </div>
 

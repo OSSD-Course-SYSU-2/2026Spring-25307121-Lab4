@@ -5,11 +5,10 @@
     "description": "$string:module_desc",
     "mainElement": "EntryAbility",
     "deviceTypes": [
-<<<<<<< HEAD
-      "phone", "wearable", "tablet","tv"
-=======
-      "phone"
->>>>>>> 09ec420f40fd8103d55821192a297211cc71f8cc
+      "phone",
+      "wearable",
+      "tablet",
+      "tv"
     ],
     "deliveryWithInstall": true,
     "installationFree": false,
@@ -19,11 +18,13 @@
         "name": "EntryAbility",
         "srcEntry": "./ets/entryability/EntryAbility.ets",
         "description": "$string:EntryAbility_desc",
-        "icon": "$media:layered_image",
+        "icon": "$media:app_icon",
         "label": "$string:EntryAbility_label",
-        "startWindowIcon": "$media:startIcon",
+        "startWindowIcon": "$media:app_icon",
         "startWindowBackground": "$color:start_window_background",
         "exported": true,
+        "launchType": "standard",
+        "visible": true,
         "skills": [
           {
             "entities": [
@@ -47,7 +48,7 @@
             "name": "ohos.extension.backup",
             "resource": "$profile:backup_config"
           }
-        ],
+        ]
       }
     ]
   }
